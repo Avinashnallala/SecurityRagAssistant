@@ -1,0 +1,51 @@
+# Core LangChain
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# LLM
+langchain-groq
+groq
+
+# RAG
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+pypdf
+
+# Environment
+python-dotenv
+pydantic
+pydantic-settings
+
+# Backend
+fastapi
+uvicorn[standard]
+python-multipart
+httpx
+
+# Database
+sqlalchemy
+psycopg[binary]
+
+# Authentication
+PyJWT
+pwdlib[argon2]
+
+# UI
+streamlit
+pandas
+plotly
+
+# Observability
+langsmith
+
+# Testing
+pytest
+pytest-asyncio
+pytest-cov
+
+# Utilities
+numpy
+tenacity
